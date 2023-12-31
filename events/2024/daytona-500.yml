@@ -1,0 +1,25 @@
+- event:
+    name: Daytona 500
+    location: Daytona International Speedway - Oval
+    start_date: 2024-02-13T00:00:00+0000
+    end_date: 2024-02-19T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length: 200 laps
+    team_event: no
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      NASCAR Cup:
+        - NASCAR Cup Series Next Gen Chevrolet Camaro ZL1
+        - NASCAR Cup Series Next Gen Ford Mustang
+        - NASCAR Cup Series Next Gen Toyota Camry
+    text_description: >
+      Known as “The Great American Race,” the iRacing Daytona 500 serves as
+      part of the NASCAR iRacing Series schedule. It's one of four full-length
+      events in the championship, which mirrors the real-world NASCAR Cup Series
+      campaign with 36 events throughout the year.

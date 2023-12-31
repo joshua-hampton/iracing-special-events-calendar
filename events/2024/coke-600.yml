@@ -1,0 +1,26 @@
+- event:
+    name: Coke 600
+    location: Charlotte Motor Speedway - Oval 2018
+    start_date: 2024-05-21T00:00:00+0000
+    end_date: 2024-05-27T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length: 400 laps
+    team_event: no
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      NASCAR Cup:
+        - NASCAR Cup Series Next Gen Chevrolet Camaro ZL1
+        - NASCAR Cup Series Next Gen Ford Mustang
+        - NASCAR Cup Series Next Gen Toyota Camry
+    text_description: >
+      The final marquee motorsport event of Memorial Day weekend and a longtime
+      Charlotte Motor Speedway tradition, the iRacing Coke 600 serves as part
+      of the NASCAR iRacing Series schedule. It's the second of four full-length
+      events in the championship, which mirrors the real-world NASCAR Cup Series
+      campaign with 36 events throughout the year.

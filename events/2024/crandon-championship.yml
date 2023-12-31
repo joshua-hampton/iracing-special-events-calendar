@@ -1,0 +1,22 @@
+- event:
+    name: Crandon Championship
+    location: Crandon International Raceway
+    start_date: 2024-08-24T00:00:00+0000
+    end_date: 2024-08-24T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length:
+    team_event: no
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      - Pro 4 Off-Road Truck
+    text_description: >
+      The Crandon Pro 4 Championship is held annually on Labor Day weekend
+      at Crandon International Raceway. Independently sanctioned and with
+      no points on the line, it attracts the best off-road racers from
+      various series across the United States.

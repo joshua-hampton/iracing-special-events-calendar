@@ -1,0 +1,21 @@
+- event:
+    name: Martinsville MX-500
+    location: Martinsville Speedway
+    start_date: 2024-07-30T00:00:00+0000
+    end_date: 2024-08-04T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length: 951 laps
+    team_event: no
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      - Global Mazda MX-5
+    text_description: >
+      The Martinsville MX-500 is a new Special Event kicking off in 2024 where
+      competitors will take to the small confines of Martinsville Speedway in
+      the Global Mazda MX-5 Cup car for a 500 mile race.

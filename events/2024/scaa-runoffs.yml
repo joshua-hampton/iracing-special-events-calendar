@@ -1,0 +1,20 @@
+- event:
+    name: SCAA Runoffs
+    location: Virginia International Raceway
+    start_date: 2024-11-23T00:00:00+0000
+    end_date: 2024-11-23T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length:
+    team_event: no
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      - 6 Class TBD
+    text_description: >
+      The SCCA Runoffs is a week long competition at Virginia International
+      Raceway in Alton, Virginia.

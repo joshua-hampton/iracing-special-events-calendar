@@ -1,0 +1,28 @@
+- event:
+    name: Daytona 24
+    location: Daytona International Speedway - Road
+    start_date: 2024-01-19T00:00:00+0000
+    end_date: 2024-01-21T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length: 24 hours
+    team_event: yes
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      GTP:
+        -
+      LMP2:
+        -
+      GT3:
+        -
+    text_description: >
+      The 2024 edition of the iRacing Daytona 24 is set for the weekend of January 19-21.
+      The event marks the seventh running of the anniversary of iRacing's popular driver
+      swap/team feature that sees hundreds of teams of iRacing drivers, team managers, engineers,
+      and spotters participate in the around the clock sim race. The 24 Hours of Daytona is a 24
+      hour endurance race held at Daytona International Speedway in Daytona Beach, Florida.

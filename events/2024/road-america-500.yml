@@ -1,0 +1,23 @@
+- event:
+    name: Road America 500
+    location: Road America - Full Course
+    start_date: 2024-04-12T00:00:00+0000
+    end_date: 2024-04-14T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length: 124 laps
+    team_event: yes
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      - Audi 90 GTO
+      - Nissan GTP ZX-T
+    text_description: >
+      Travel back in time to an era of classic sports car racing with the Road
+      America 500 that was revived as part of the IMSA GT Championship in 1979.
+      Racers will get to experience the excitement racing the Nissan GTP ZX-T
+      or the Audi 90 Quattro GTO.

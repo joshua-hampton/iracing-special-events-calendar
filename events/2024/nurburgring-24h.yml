@@ -1,0 +1,30 @@
+- event:
+    name: Nürburgring 24h
+    location: Nürburgring - Gesamtstrecke 24h
+    start_date: 2024-05-17T00:00:00+0000
+    end_date: 2024-05-19T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length: 24 hours
+    team_event: yes
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      GT3:
+        -
+      Porsche Cup:
+        -
+      GT4:
+        -
+      TCR:
+        -
+    text_description: >
+      The 24 Hours Nürburgring (ADAC 24h Rennen Nürburgring) is a 24-hour
+      endurance event held on the Nürburgring Combined - Gesamtstrecke 24h
+      in Nürburg, Rhineland-Palatinate, Germany. It also utilizes part of
+      the GP-Strecke course to form a total lap length of 16.1 miles
+      (25.9 km).

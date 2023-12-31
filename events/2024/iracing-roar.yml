@@ -1,0 +1,36 @@
+- event:
+    name: iRacing ROAR
+    location: Daytona International Speedway - Road
+    start_date: 2024-01-12T00:00:00+0000
+    end_date: 2024-01-14T23:59:59+0000
+    sim_start_date: 2024-01-21T13:00:00-0500
+    warmup: 30 minutes
+    qualifying: 8 minutes / 2 laps
+    race_length: 2.4 hours
+    team_event: no
+    drive_through_limit: 20,10
+    weather: Dynamic
+    sky: Dynamic
+    split_times:
+      - Friday 22:00 GMT
+      - Saturday 07:00 GMT
+      - Saturday 12:00 GMT
+      - Saturday 16:00 GMT
+    cars:
+      LMP3:
+        Ligier JS P320
+      GT4:
+        - Aston Martin Vantage GT4
+        - BMW M4 GT4
+        - McLaren 570S GT4
+        - Mercedes-AMG GT4
+        - Porsche 718 Cayman GT4 Clubsport MR
+      TCR:
+        - Audi RS 3 LMS
+        - Honda Civic Type R
+        - Hyundai Elantra N TC
+        - Hyundai Veloster N TC
+    text_description: >
+      The iRacing ROAR is inspired by the real-world Roar Before the Rolex 24
+      at Daytona International Speedway. Back by popular demand, this event kicks
+      off the 2024 iRacing Special Event schedule.

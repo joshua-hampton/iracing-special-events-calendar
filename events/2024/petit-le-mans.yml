@@ -1,0 +1,26 @@
+- event:
+    name: Petit Le Mans
+    location: Road Atlanta - Full Course
+    start_date: 2024-10-18T00:00:00+0000
+    end_date: 2024-10-19T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length: 10 hours
+    team_event: yes
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      GTP:
+        -
+      LMP2:
+        -
+      GT3:
+        -
+    text_description: >
+      The Petit Le Mans is a 10 hour endurance race held annually at Michelin
+      Raceway Road Atlanta in Braselton, Georgia. It is the final round of the
+      IMSA WeatherTech SportsCar Championship.

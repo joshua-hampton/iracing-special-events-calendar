@@ -1,0 +1,25 @@
+- event:
+    name: Bristol 500
+    location: Bristol Motor Speedway
+    start_date: 2024-09-17T00:00:00+0000
+    end_date: 2024-09-23T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length: 500 laps
+    team_event: no
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      NASCAR Cup:
+        - NASCAR Cup Series Next Gen Chevrolet Camaro ZL1
+        - NASCAR Cup Series Next Gen Ford Mustang
+        - NASCAR Cup Series Next Gen Toyota Camry
+    text_description: >
+      The iRacing Bristol 500 challenges NASCAR iRacing Series drivers to a
+      full-length race at “The Last Great Colosseum.” Bristol Motor Speedway's
+      night race has long been a staple of the real-world NASCAR Cup Series
+      schedule.
