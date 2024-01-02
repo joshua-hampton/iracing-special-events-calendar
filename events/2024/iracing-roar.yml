@@ -16,6 +16,7 @@
       - Saturday 07:00 GMT
       - Saturday 12:00 GMT
       - Saturday 16:00 GMT
+      - Sunday 00:00 GMT
     cars:
       LMP3:
         Ligier JS P320
