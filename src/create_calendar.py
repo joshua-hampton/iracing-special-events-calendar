@@ -8,6 +8,7 @@ def init_calendar(prodid):
     cal = Calendar()
     cal.add('prodid',prodid)
     cal.add('version', '2.0')
+    cal.add('method','PUBLISH')
     return cal
 
 
@@ -37,13 +38,14 @@ def create_event(race_event):
     uk_timezone = pytz.timezone('Europe/London')
     description = create_event_description(race_event)
     event_dict = {
-        "uid": f"{race_event["name"].replace(" ","_")}_{int(dt.now().timestamp())}",
+        "uid": f"{race_event["name"].replace(" ","_")}_{int(dt.fromisoformat(race_event["start_date"]).timestamp())}",
         "dtstamp": dt.now().astimezone(uk_timezone),
         "dtstart": dt.fromisoformat(race_event["start_date"]),
         "dtend": dt.fromisoformat(race_event["end_date"]),
         "summary": race_event["name"],
         "location": race_event["location"].split("-")[0].strip() if race_event["location"] != None else "Unknown",
         "description": description,
+        "sequence": race_event["iteration"],
     }
     return event_dict
 

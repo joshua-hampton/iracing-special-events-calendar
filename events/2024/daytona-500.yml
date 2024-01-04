@@ -1,5 +1,6 @@
 - event:
     name: Daytona 500
+    iteration: 0
     location: Daytona International Speedway - Oval
     start_date: 2024-02-13T00:00:00+0000
     end_date: 2024-02-19T23:59:59+0000

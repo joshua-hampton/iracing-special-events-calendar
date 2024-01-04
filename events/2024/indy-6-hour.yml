@@ -1,5 +1,6 @@
 - event:
     name: Indy 6 Hour
+    iteration: 0
     location: Indianapolis Motor Speedway - Road Course
     start_date: 2024-09-13T00:00:00+0000
     end_date: 2024-09-15T23:59:59+0000

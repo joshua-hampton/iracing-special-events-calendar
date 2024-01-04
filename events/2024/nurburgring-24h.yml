@@ -1,5 +1,6 @@
 - event:
     name: Nürburgring 24h
+    iteration: 0
     location: Nürburgring - Gesamtstrecke 24h
     start_date: 2024-05-17T00:00:00+0000
     end_date: 2024-05-19T23:59:59+0000

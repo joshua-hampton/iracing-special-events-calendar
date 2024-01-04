@@ -1,12 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//JMRH//iracing//special_events v1.0//EN
+METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:iRacing ROAR
 DTSTART:20240112T000000Z
 DTEND:20240114T235959Z
-DTSTAMP:20240102T221321Z
-UID:iRacing_ROAR_1704233601
+DTSTAMP:20240104T144737Z
+UID:iRacing_ROAR_1705017600
+SEQUENCE:0
 DESCRIPTION:The iRacing ROAR is inspired by the real-world Roar Before the
   Rolex 24 at Daytona International Speedway. Back by popular demand\, this
   event kicks off the 2024 iRacing Special Event schedule.\n\nEvent Informa
@@ -27,8 +29,9 @@ BEGIN:VEVENT
 SUMMARY:Daytona 24
 DTSTART:20240119T000000Z
 DTEND:20240121T235959Z
-DTSTAMP:20240102T221321Z
-UID:Daytona_24_1704233601
+DTSTAMP:20240104T144737Z
+UID:Daytona_24_1705622400
+SEQUENCE:0
 DESCRIPTION:The 2024 edition of the iRacing Daytona 24 is set for the week
  end of January 19-21. The event marks the seventh running of the anniversa
  ry of iRacing's popular driver swap/team feature that sees hundreds of tea
@@ -44,8 +47,9 @@ BEGIN:VEVENT
 SUMMARY:Daytona 500
 DTSTART:20240213T000000Z
 DTEND:20240219T235959Z
-DTSTAMP:20240102T221321Z
-UID:Daytona_500_1704233601
+DTSTAMP:20240104T144737Z
+UID:Daytona_500_1707782400
+SEQUENCE:0
 DESCRIPTION:Known as “The Great American Race\,” the iRacing Daytona 5
  00 serves as part of the NASCAR iRacing Series schedule. It's one of four 
  full-length events in the championship\, which mirrors the real-world NASC
@@ -61,8 +65,9 @@ BEGIN:VEVENT
 SUMMARY:Bathurst 12
 DTSTART:20240223T000000Z
 DTEND:20240225T235959Z
-DTSTAMP:20240102T221321Z
-UID:Bathurst_12_1704233601
+DTSTAMP:20240104T144737Z
+UID:Bathurst_12_1708646400
+SEQUENCE:0
 DESCRIPTION:The Bathurst 12 Hour is a 12 hour endurance race staged on the
   Mount Panorama Circuit in Bathurst\, New South Wales\, Australia. This ev
  ent serves as the opening round to the Intercontinental GT Challenge Serie
@@ -75,8 +80,9 @@ BEGIN:VEVENT
 SUMMARY:Sebring 12
 DTSTART:20240322T000000Z
 DTEND:20240324T235959Z
-DTSTAMP:20240102T221321Z
-UID:Sebring_12_1704233601
+DTSTAMP:20240104T144737Z
+UID:Sebring_12_1711065600
+SEQUENCE:0
 DESCRIPTION:The Sebring 12HR is a 12-hour endurance race held at Sebring I
  nternational Raceway in Sebring\, Florida. It is the second round of the I
  MSA WeatherTech SportsCar Championship.\n\nEvent Information:\nDate: 22 Ma
@@ -89,8 +95,9 @@ BEGIN:VEVENT
 SUMMARY:Road America 500
 DTSTART:20240412T000000Z
 DTEND:20240414T235959Z
-DTSTAMP:20240102T221321Z
-UID:Road_America_500_1704233601
+DTSTAMP:20240104T144737Z
+UID:Road_America_500_1712880000
+SEQUENCE:0
 DESCRIPTION:Travel back in time to an era of classic sports car racing wit
  h the Road America 500 that was revived as part of the IMSA GT Championshi
  p in 1979. Racers will get to experience the excitement racing the Nissan 
@@ -104,8 +111,9 @@ BEGIN:VEVENT
 SUMMARY:Nürburgring 24h
 DTSTART:20240517T000000Z
 DTEND:20240519T235959Z
-DTSTAMP:20240102T221321Z
-UID:Nürburgring_24h_1704233601
+DTSTAMP:20240104T144737Z
+UID:Nürburgring_24h_1715904000
+SEQUENCE:0
 DESCRIPTION:The 24 Hours Nürburgring (ADAC 24h Rennen Nürburgring) is a 
  24-hour endurance event held on the Nürburgring Combined - Gesamtstrecke 
  24h in Nürburg\, Rhineland-Palatinate\, Germany. It also utilizes part of
@@ -119,8 +127,9 @@ BEGIN:VEVENT
 SUMMARY:Coke 600
 DTSTART:20240521T000000Z
 DTEND:20240527T235959Z
-DTSTAMP:20240102T221321Z
-UID:Coke_600_1704233601
+DTSTAMP:20240104T144737Z
+UID:Coke_600_1716249600
+SEQUENCE:0
 DESCRIPTION:The final marquee motorsport event of Memorial Day weekend and
   a longtime Charlotte Motor Speedway tradition\, the iRacing Coke 600 serv
  es as part of the NASCAR iRacing Series schedule. It's the second of four 
@@ -137,8 +146,9 @@ BEGIN:VEVENT
 SUMMARY:Watkins Glen 6 Hour
 DTSTART:20240614T000000Z
 DTEND:20240616T235959Z
-DTSTAMP:20240102T221321Z
-UID:Watkins_Glen_6_Hour_1704233601
+DTSTAMP:20240104T144737Z
+UID:Watkins_Glen_6_Hour_1718323200
+SEQUENCE:0
 DESCRIPTION:The Watkins Glen 6 Hour is a 6 hour endurance race held annual
  ly at Watkins Glen International in Watkins Glen\, New York. It is the fif
  th round of the IMSA WeatherTech SportsCar Championship.\n\nEvent Informat
@@ -151,8 +161,9 @@ BEGIN:VEVENT
 SUMMARY:Brickyard 400
 DTSTART:20240716T000000Z
 DTEND:20240722T235959Z
-DTSTAMP:20240102T221321Z
-UID:Brickyard_400_1704233601
+DTSTAMP:20240104T144737Z
+UID:Brickyard_400_1721088000
+SEQUENCE:0
 DESCRIPTION:Known as “The Great American Race\,” the iRacing Daytona 5
  00 serves as part of the NASCAR iRacing Series schedule. It's one of four 
  full-length events in the championship\, which mirrors the real-world NASC
@@ -168,8 +179,9 @@ BEGIN:VEVENT
 SUMMARY:Spa 24
 DTSTART:20240719T000000Z
 DTEND:20240721T235959Z
-DTSTAMP:20240102T221321Z
-UID:Spa_24_1704233601
+DTSTAMP:20240104T144737Z
+UID:Spa_24_1721347200
+SEQUENCE:0
 DESCRIPTION:The 24 Hours of Spa is an endurance race held in Belgium at Ci
  rcuit de Spa-Francorchamps since 1923. It is part of the Intercontinental 
  GT Challenge Series in the real world.\n\nEvent Information:\nDate: 19 Jul
@@ -181,8 +193,9 @@ BEGIN:VEVENT
 SUMMARY:Martinsville MX-500
 DTSTART:20240730T000000Z
 DTEND:20240804T235959Z
-DTSTAMP:20240102T221321Z
-UID:Martinsville_MX-500_1704233601
+DTSTAMP:20240104T144737Z
+UID:Martinsville_MX-500_1722297600
+SEQUENCE:0
 DESCRIPTION:The Martinsville MX-500 is a new Special Event kicking off in 
  2024 where competitors will take to the small confines of Martinsville Spe
  edway in the Global Mazda MX-5 Cup car for a 500 mile race.\n\nEvent Infor
@@ -195,8 +208,9 @@ BEGIN:VEVENT
 SUMMARY:Crandon Championship
 DTSTART:20240824T000000Z
 DTEND:20240824T235959Z
-DTSTAMP:20240102T221321Z
-UID:Crandon_Championship_1704233601
+DTSTAMP:20240104T144737Z
+UID:Crandon_Championship_1724457600
+SEQUENCE:0
 DESCRIPTION:The Crandon Pro 4 Championship is held annually on Labor Day w
  eekend at Crandon International Raceway. Independently sanctioned and with
   no points on the line\, it attracts the best off-road racers from various
@@ -209,8 +223,9 @@ BEGIN:VEVENT
 SUMMARY:Indy 6 Hour
 DTSTART:20240913T000000Z
 DTEND:20240915T235959Z
-DTSTAMP:20240102T221321Z
-UID:Indy_6_Hour_1704233601
+DTSTAMP:20240104T144737Z
+UID:Indy_6_Hour_1726185600
+SEQUENCE:0
 DESCRIPTION:The Indy 6 Hour  is a new 6 hour endurance race held at Indian
  apolis Motor Speedway in Indiana. It is part of the Michelin Endurance Cup
   in the IMSA WeatherTech SportsCar Championship.\n\nEvent Information:\nDa
@@ -223,8 +238,9 @@ BEGIN:VEVENT
 SUMMARY:Bristol 500
 DTSTART:20240917T000000Z
 DTEND:20240923T235959Z
-DTSTAMP:20240102T221321Z
-UID:Bristol_500_1704233601
+DTSTAMP:20240104T144737Z
+UID:Bristol_500_1726531200
+SEQUENCE:0
 DESCRIPTION:The iRacing Bristol 500 challenges NASCAR iRacing Series drive
  rs to a full-length race at “The Last Great Colosseum.” Bristol Motor 
  Speedway's night race has long been a staple of the real-world NASCAR Cup 
@@ -239,8 +255,9 @@ BEGIN:VEVENT
 SUMMARY:Knoxville Nationals
 DTSTART:20240927T000000Z
 DTEND:20240929T235959Z
-DTSTAMP:20240102T221321Z
-UID:Knoxville_Nationals_1704233601
+DTSTAMP:20240104T144737Z
+UID:Knoxville_Nationals_1727395200
+SEQUENCE:0
 DESCRIPTION:The Knoxville Nationals is one of the biggest and most prestig
  ious Sprint Car events of the year. The World of Outlaws Sprint Car Series
   event is held annually at Knoxville Raceway in Knoxville\, Iowa.\n\nEvent
@@ -253,8 +270,9 @@ BEGIN:VEVENT
 SUMMARY:Bathurst 1000
 DTSTART:20241004T000000Z
 DTEND:20241006T235959Z
-DTSTAMP:20240102T221321Z
-UID:Bathurst_1000_1704233601
+DTSTAMP:20240104T144737Z
+UID:Bathurst_1000_1728000000
+SEQUENCE:0
 DESCRIPTION:The Bathurst 1000 is staged on the Mount Panorama Circuit in B
  athurst\, New South Wales\, Australia. Regarded as the pinnacle of motorsp
  ort in Australia\, this is the biggest event on the calendar for the Super
@@ -267,8 +285,9 @@ BEGIN:VEVENT
 SUMMARY:Petit Le Mans
 DTSTART:20241018T000000Z
 DTEND:20241019T235959Z
-DTSTAMP:20240102T221321Z
-UID:Petit_Le_Mans_1704233601
+DTSTAMP:20240104T144737Z
+UID:Petit_Le_Mans_1729209600
+SEQUENCE:0
 DESCRIPTION:The Petit Le Mans is a 10 hour endurance race held annually at
   Michelin Raceway Road Atlanta in Braselton\, Georgia. It is the final rou
  nd of the IMSA WeatherTech SportsCar Championship.\n\nEvent Information:\n
@@ -281,8 +300,9 @@ BEGIN:VEVENT
 SUMMARY:BRSCC iRacing FF1600 Festival
 DTSTART:20241103T000000Z
 DTEND:20241103T235959Z
-DTSTAMP:20240102T221321Z
-UID:BRSCC_iRacing_FF1600_Festival_1704233601
+DTSTAMP:20240104T144737Z
+UID:BRSCC_iRacing_FF1600_Festival_1730592000
+SEQUENCE:0
 DESCRIPTION:The British Racing & Sports Car Club iRacing FF1600 Festival i
  s an event that will be emulating the Formula Ford Festival run in real li
  fe utilizing the same heat racing format. The event will take place at Bra
@@ -295,8 +315,9 @@ BEGIN:VEVENT
 SUMMARY:Fuji 8 Hour
 DTSTART:20241115T000000Z
 DTEND:20241117T235959Z
-DTSTAMP:20240102T221321Z
-UID:Fuji_8_Hour_1704233601
+DTSTAMP:20240104T144737Z
+UID:Fuji_8_Hour_1731628800
+SEQUENCE:0
 DESCRIPTION:The Fuji 8 Hours is a sports car endurance race held in Japan 
  at Fuji International Speedway. \n\nEvent Information:\nDate: 15 November 
  - 17 November\nCars:\n  GT3\n\nSim Information:\nTrack: Fuji International
@@ -307,8 +328,9 @@ BEGIN:VEVENT
 SUMMARY:SCAA Runoffs
 DTSTART:20241123T000000Z
 DTEND:20241123T235959Z
-DTSTAMP:20240102T221321Z
-UID:SCAA_Runoffs_1704233601
+DTSTAMP:20240104T144737Z
+UID:SCAA_Runoffs_1732320000
+SEQUENCE:0
 DESCRIPTION:The SCCA Runoffs is a week long competition at Virginia Intern
  ational Raceway in Alton\, Virginia.\n\nEvent Information:\nDate: 23 Novem
  ber - 23 November\nCars:\n  6 Class TBD\n\nSim Information:\nTrack: Virgin
@@ -319,8 +341,9 @@ BEGIN:VEVENT
 SUMMARY:Winter Derby
 DTSTART:20241126T000000Z
 DTEND:20241129T235959Z
-DTSTAMP:20240102T221321Z
-UID:Winter_Derby_1704233601
+DTSTAMP:20240104T144737Z
+UID:Winter_Derby_1732579200
+SEQUENCE:0
 DESCRIPTION:The Winter Derby is held at Five Flags Speedway in Pensacola\,
   Florida. Considered to be the most prestigious Super Late Model race\, th
  e annual event draws the nation's best short track racers for a 300 lap sh
@@ -333,8 +356,9 @@ BEGIN:VEVENT
 SUMMARY:Chili Bowl
 DTSTART:20241214T000000Z
 DTEND:20241214T235959Z
-DTSTAMP:20240102T221321Z
-UID:Chili_Bowl_1704233601
+DTSTAMP:20240104T144737Z
+UID:Chili_Bowl_1734134400
+SEQUENCE:0
 DESCRIPTION:The Chili Bowl is held every January at the Tulsa Expo Center 
  in Tulsa\, Oklahoma. The biggest midget race of the year\, it attracts hun
  dreds of drivers from all types of racing attempting to work their way thr

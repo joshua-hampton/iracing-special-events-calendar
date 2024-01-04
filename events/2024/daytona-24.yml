@@ -1,5 +1,6 @@
 - event:
     name: Daytona 24
+    iteration: 0
     location: Daytona International Speedway - Road
     start_date: 2024-01-19T00:00:00+0000
     end_date: 2024-01-21T23:59:59+0000

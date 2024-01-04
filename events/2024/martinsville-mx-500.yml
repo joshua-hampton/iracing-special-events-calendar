@@ -1,5 +1,6 @@
 - event:
     name: Martinsville MX-500
+    iteration: 0
     location: Martinsville Speedway
     start_date: 2024-07-30T00:00:00+0000
     end_date: 2024-08-04T23:59:59+0000

@@ -1,5 +1,6 @@
 - event:
     name: Crandon Championship
+    iteration: 0
     location: Crandon International Raceway
     start_date: 2024-08-24T00:00:00+0000
     end_date: 2024-08-24T23:59:59+0000

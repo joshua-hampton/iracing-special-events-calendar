@@ -1,5 +1,6 @@
 - event:
     name: Brickyard 400
+    iteration: 0
     location: Indianapolis Motor Speedway
     start_date: 2024-07-16T00:00:00+0000
     end_date: 2024-07-22T23:59:59+0000
