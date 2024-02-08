@@ -1,19 +1,29 @@
 - event:
     name: Daytona 500
-    iteration: 0
+    iteration: 1
     location: Daytona International Speedway - Oval
     start_date: 2024-02-13T00:00:00+0000
     end_date: 2024-02-19T23:59:59+0000
-    sim_start_date: 
-    warmup: 
-    qualifying: 
+    sim_start_date: "2024-02-18"
+    warmup: 3 minutes
+    qualifying: 5 minutes / 2 laps
     race_length: 200 laps
     team_event: no
-    drive_through_limit: 
-    weather: 
+    drive_through_limit: 17,25DQ
+    weather: Dynamic
     sky: 
     split_times:
-      - 
+      Open:
+        - Thursday 02:00 GMT/Wednesday 21:00 EST
+        - Thursday 19:00 GMT/Thursday 14:00 EST
+        - Saturday 02:00 GMT/Friday 21:00 EST
+        - Sunday 15:00 GMT/Sunday 10:00 EST
+      Fixed:
+        - Wednesday 21:00 GMT/Wednesday 16:00 EST
+        - Friday 02:00 GMT/Thursday 21:00 EST
+        - Saturday 10:00 GMT/Saturday 05:00 EST
+        - Saturday 17:00 GMT/Saturday 12:00 EST
+        - Monday 02:00 GMT/Sunday 21:00 EST
     cars:
       NASCAR Cup:
         - NASCAR Cup Series Next Gen Chevrolet Camaro ZL1
