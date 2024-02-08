@@ -1,0 +1,22 @@
+- event:
+    name: Indy 500
+    iteration: 0
+    location: Indianapolis Motor Speedway
+    start_date: 2024-05-27T00:00:00+0000
+    end_date: 2024-06-02T23:59:59+0000
+    sim_start_date: 
+    warmup: 
+    qualifying: 
+    race_length: 200 laps
+    team_event: no
+    drive_through_limit: 
+    weather: 
+    sky: 
+    split_times:
+      - 
+    cars:
+      - Dallara IR18
+    text_description: >
+      Known as “The Greatest Spectacle in Racing,” the INDY 500 is one of the most prestigious
+      race events in the world, held since 1911 at Indianapolis Motor Speedway. It is part of
+      the INDYCAR Series in the United States. 
