@@ -70,8 +70,16 @@ def create_event_info(race_event):
     event_info_text = f"Event Information:\nDate: {dt.fromisoformat(race_event["start_date"]).strftime("%d %B")} - {dt.fromisoformat(race_event["end_date"]).strftime("%d %B")}"
     if race_event["split_times"] != [None]:
         event_info_text += "\nTime slots:"
-        for t in race_event["split_times"]:
-            event_info_text += f"\n  {t}"
+        if isinstance(race_event["split_times"], dict):
+            event_info_text += f"\n  Open"
+            for t in race_event["split_times"]["Open"]:
+                event_info_text += f"\n    {t}"
+            event_info_text += f"\n  Fixed"
+            for t in race_event["split_times"]["Fixed"]:
+                event_info_text += f"\n    {t}"
+        else:
+            for t in race_event["split_times"]:
+                event_info_text += f"\n  {t}"
     if race_event["cars"] != [None]:
         event_info_text += "\nCars:"
         if isinstance(race_event["cars"], list):
@@ -116,7 +124,10 @@ def create_session_info(race_event):
         session_info_text += f"\n Team Event: {race_event["team_event"]}"
     if race_event["drive_through_limit"] != None:
         initial, recurring = race_event["drive_through_limit"].split(",")
-        session_info_text += f"\n Drive Through Limit: {initial} incidents, then every {recurring} incidents."
+        if recurring.endswith("DQ"):
+            session_info_text += f"\n Drive Through Limit: {initial} incidents\n Disqualification: {recurring.removesuffix("DQ")} incidents."
+        else:
+            session_info_text += f"\n Drive Through Limit: {initial} incidents, then every {recurring} incidents."
     return session_info_text
 
 
