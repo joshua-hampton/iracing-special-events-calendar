@@ -1,26 +1,37 @@
 - event:
     name: Sebring 12
-    iteration: 0
+    iteration: 1
     location: Sebring International Raceway - International
     start_date: 2024-03-22T00:00:00+0000
     end_date: 2024-03-24T23:59:59+0000
-    sim_start_date: 
-    warmup: 
-    qualifying: 
+    sim_start_date: 2024-03-16T0930-0500
+    warmup: 30 minutes
+    qualifying: 8 minutes / 2 laps
     race_length: 12 hours
     team_event: yes
-    drive_through_limit: 
-    weather: 
+    drive_through_limit: 50,20 
+    weather: Dynamic
     sky: 
     split_times:
-      - 
+      - Friday 22:00 GMT
+      - Saturday 07:00 GMT
+      - Saturday 12:00 GMT
+      - Saturday 16:00 GMT
     cars:
       GTP:
-        -
+        - Acura ARX-06 GTP
+        - BMW M Hybrid V8
+        - Cadillac V-Series.R GTP
+        - Porsche 963 GTP
       LMP2:
-        -
+        - Dallara P217
       GT3:
-        -
+        - Audi R8 LMS EVO II GT3
+        - BMW M4 GT3
+        - Ferrari 296 GT3
+        - Lamborghini Huracán GT3 EVO
+        - Mercedes-AMG GT3 2020
+        - Porsche 911 GT3 R (992)
     text_description: >
       The Sebring 12HR is a 12-hour endurance race held at Sebring International
       Raceway in Sebring, Florida. It is the second round of the IMSA
