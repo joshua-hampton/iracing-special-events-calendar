@@ -3,132 +3,10 @@ VERSION:2.0
 PRODID:-//JMRH//iracing//special_events v1.0//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Bathurst 1000
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20241004T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20241006T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Bathurst_1000_1728000000
-SEQUENCE:0
-DESCRIPTION:The Bathurst 1000 is staged on the Mount Panorama Circuit in B
- athurst\, New South Wales\, Australia. Regarded as the pinnacle of motorsp
- ort in Australia\, this is the biggest event on the calendar for the Super
- cars Series.\n\nEvent Information:\nDate: 04 October - 06 October\nCars:\n
-   Supercars\n\nSim Information:\nTrack: Mount Panorama Circuit\n\nSession 
- Information:\n Race: 161 laps\n Team Event: yes
-LOCATION:Mount Panorama Circuit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winter Derby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20241126T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20241129T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Winter_Derby_1732579200
-SEQUENCE:0
-DESCRIPTION:The Winter Derby is held at Five Flags Speedway in Pensacola\,
-  Florida. Considered to be the most prestigious Super Late Model race\, th
- e annual event draws the nation's best short track racers for a 300 lap sh
- owdown on the half mile.\n\nEvent Information:\nDate: 26 November - 29 Nov
- ember\nCars:\n  Super Late Model\n\nSim Information:\nTrack: Five Flags Sp
- eedway\n\nSession Information:\n Race: 300 laps\n Team Event: no
-LOCATION:Five Flags Speedway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brickyard 400
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240716T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240722T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Brickyard_400_1721088000
-SEQUENCE:0
-DESCRIPTION:Known as “The Great American Race\,” the iRacing Daytona 5
- 00 serves as part of the NASCAR iRacing Series schedule. It's one of four 
- full-length events in the championship\, which mirrors the real-world NASC
- AR Cup Series campaign with 36 events throughout the year.\n\nEvent Inform
- ation:\nDate: 16 July - 22 July\nCars:\n  NASCAR Cup\n    NASCAR Cup Serie
- s Next Gen Chevrolet Camaro ZL1\n    NASCAR Cup Series Next Gen Ford Musta
- ng\n    NASCAR Cup Series Next Gen Toyota Camry\n\nSim Information:\nTrack
- : Indianapolis Motor Speedway\n\nSession Information:\n Race: 160 laps\n T
- eam Event: no
-LOCATION:Indianapolis Motor Speedway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crandon Championship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240824T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240824T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Crandon_Championship_1724457600
-SEQUENCE:0
-DESCRIPTION:The Crandon Pro 4 Championship is held annually on Labor Day w
- eekend at Crandon International Raceway. Independently sanctioned and with
-  no points on the line\, it attracts the best off-road racers from various
-  series across the United States.\n\nEvent Information:\nDate: 24 August -
-  24 August\nCars:\n  Pro 4 Off-Road Truck\n\nSim Information:\nTrack: Cran
- don International Raceway\n\nSession Information:\n Team Event: no
-LOCATION:Crandon International Raceway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indy 6 Hour
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240913T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240915T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Indy_6_Hour_1726185600
-SEQUENCE:0
-DESCRIPTION:The Indy 6 Hour  is a new 6 hour endurance race held at Indian
- apolis Motor Speedway in Indiana. It is part of the Michelin Endurance Cup
-  in the IMSA WeatherTech SportsCar Championship.\n\nEvent Information:\nDa
- te: 13 September - 15 September\nCars:\n  GTP\n  LMP2\n  GT3\n\nSim Inform
- ation:\nTrack: Indianapolis Motor Speedway - Road Course\n\nSession Inform
- ation:\n Race: 6 hours\n Team Event: yes
-LOCATION:Indianapolis Motor Speedway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Knoxville Nationals
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240927T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240929T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Knoxville_Nationals_1727395200
-SEQUENCE:0
-DESCRIPTION:The Knoxville Nationals is one of the biggest and most prestig
- ious Sprint Car events of the year. The World of Outlaws Sprint Car Series
-  event is held annually at Knoxville Raceway in Knoxville\, Iowa.\n\nEvent
-  Information:\nDate: 27 September - 29 September\nCars:\n  410 Winged Spri
- nt\n\nSim Information:\nTrack: Knoxville Raceway\n\nSession Information:\n
-  Team Event: no
-LOCATION:Knoxville Raceway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spa 24
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240719T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240721T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Spa_24_1721347200
-SEQUENCE:0
-DESCRIPTION:The 24 Hours of Spa is an endurance race held in Belgium at Ci
- rcuit de Spa-Francorchamps since 1923. It is part of the Intercontinental 
- GT Challenge Series in the real world.\n\nEvent Information:\nDate: 19 Jul
- y - 21 July\nCars:\n  GT3\n\nSim Information:\nTrack: Circuit de Spa-Franc
- orchamps\n\nSession Information:\n Race: 24 hours\n Team Event: yes
-LOCATION:Circuit de Spa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Petit Le Mans
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20241018T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20241019T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Petit_Le_Mans_1729209600
-SEQUENCE:0
-DESCRIPTION:The Petit Le Mans is a 10 hour endurance race held annually at
-  Michelin Raceway Road Atlanta in Braselton\, Georgia. It is the final rou
- nd of the IMSA WeatherTech SportsCar Championship.\n\nEvent Information:\n
- Date: 18 October - 19 October\nCars:\n  GTP\n  LMP2\n  GT3\n\nSim Informat
- ion:\nTrack: Road Atlanta - Full Course\n\nSession Information:\n Race: 10
-  hours\n Team Event: yes
-LOCATION:Road Atlanta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:iRacing ROAR
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240112T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240114T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
+DTSTART:20240112T000000Z
+DTEND:20240114T235959Z
+DTSTAMP:20240423T151808Z
 UID:iRacing_ROAR_1705017600
 SEQUENCE:0
 DESCRIPTION:The iRacing ROAR is inspired by the real-world Roar Before the
@@ -148,38 +26,10 @@ DESCRIPTION:The iRacing ROAR is inspired by the real-world Roar Before the
 LOCATION:Daytona International Speedway
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fuji 8 Hour
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20241115T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20241117T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Fuji_8_Hour_1731628800
-SEQUENCE:0
-DESCRIPTION:The Fuji 8 Hours is a sports car endurance race held in Japan 
- at Fuji International Speedway. \n\nEvent Information:\nDate: 15 November 
- - 17 November\nCars:\n  GT3\n\nSim Information:\nTrack: Fuji International
-  Speedway\n\nSession Information:\n Race: 8 hours\n Team Event: yes
-LOCATION:Fuji International Speedway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indy 500
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240527T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240602T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Indy_500_1716768000
-SEQUENCE:0
-DESCRIPTION:Known as “The Greatest Spectacle in Racing\,” the INDY 500
-  is one of the most prestigious race events in the world\, held since 1911
-  at Indianapolis Motor Speedway. It is part of the INDYCAR Series in the U
- nited States. \n\nEvent Information:\nDate: 27 May - 02 June\nCars:\n  Dal
- lara IR18\n\nSim Information:\nTrack: Indianapolis Motor Speedway\n\nSessi
- on Information:\n Race: 200 laps\n Team Event: no
-LOCATION:Indianapolis Motor Speedway
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daytona 24
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240119T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240121T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
+DTSTART:20240119T000000Z
+DTEND:20240121T235959Z
+DTSTAMP:20240423T151808Z
 UID:Daytona_24_1705622400
 SEQUENCE:1
 DESCRIPTION:The 2024 edition of the iRacing Daytona 24 is set for the week
@@ -202,100 +52,10 @@ DESCRIPTION:The 2024 edition of the iRacing Daytona 24 is set for the week
 LOCATION:Daytona International Speedway
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BRSCC iRacing FF1600 Festival
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20241103T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20241103T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:BRSCC_iRacing_FF1600_Festival_1730592000
-SEQUENCE:0
-DESCRIPTION:The British Racing & Sports Car Club iRacing FF1600 Festival i
- s an event that will be emulating the Formula Ford Festival run in real li
- fe utilizing the same heat racing format. The event will take place at Bra
- nds Hatch on the Indy layout.\n\nEvent Information:\nDate: 03 November - 0
- 3 November\nCars:\n  Ray FF1600\n\nSim Information:\nTrack: Brands Hatch -
-  Indy\n\nSession Information:\n Team Event: no
-LOCATION:Brands Hatch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sebring 12
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240322T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240324T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Sebring_12_1711065600
-SEQUENCE:1
-DESCRIPTION:The Sebring 12HR is a 12-hour endurance race held at Sebring I
- nternational Raceway in Sebring\, Florida. It is the second round of the I
- MSA WeatherTech SportsCar Championship.\n\n\nEvent Information:\nDate: 22 
- March - 24 March\nTime slots:\n  Friday 22:00 GMT\n  Saturday 07:00 GMT\n 
-  Saturday 12:00 GMT\n  Saturday 16:00 GMT\nCars:\n  GTP\n    Acura ARX-06 
- GTP\n    BMW M Hybrid V8\n    Cadillac V-Series.R GTP\n    Porsche 963 GTP
- \n  LMP2\n    Dallara P217\n  GT3\n    Audi R8 LMS EVO II GT3\n    BMW M4 
- GT3\n    Ferrari 296 GT3\n    Lamborghini Huracán GT3 EVO\n    Mercedes-A
- MG GT3 2020\n    Porsche 911 GT3 R (992)\n\nSim Information:\nTrack: Sebri
- ng International Raceway - International\nSim Start Time: Saturday 16 Marc
- h 2024\, 09:30\n\nSession Information:\n Warmup: 30 minutes\n Qualifying: 
- 8 minutes / 2 laps\n Race: 12 hours\n Weather: Dynamic\n Team Event: yes\n
-  Drive Through Limit: 50 incidents\, then every 20 incidents.
-LOCATION:Sebring International Raceway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bristol 500
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240917T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240923T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Bristol_500_1726531200
-SEQUENCE:0
-DESCRIPTION:The iRacing Bristol 500 challenges NASCAR iRacing Series drive
- rs to a full-length race at “The Last Great Colosseum.” Bristol Motor 
- Speedway's night race has long been a staple of the real-world NASCAR Cup 
- Series schedule.\n\nEvent Information:\nDate: 17 September - 23 September\
- nCars:\n  NASCAR Cup\n    NASCAR Cup Series Next Gen Chevrolet Camaro ZL1\
- n    NASCAR Cup Series Next Gen Ford Mustang\n    NASCAR Cup Series Next G
- en Toyota Camry\n\nSim Information:\nTrack: Bristol Motor Speedway\n\nSess
- ion Information:\n Race: 500 laps\n Team Event: no
-LOCATION:Bristol Motor Speedway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nürburgring 24h
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240517T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240519T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Nürburgring_24h_1715904000
-SEQUENCE:0
-DESCRIPTION:The 24 Hours Nürburgring (ADAC 24h Rennen Nürburgring) is a 
- 24-hour endurance event held on the Nürburgring Combined - Gesamtstrecke 
- 24h in Nürburg\, Rhineland-Palatinate\, Germany. It also utilizes part of
-  the GP-Strecke course to form a total lap length of 16.1 miles (25.9 km).
- \n\nEvent Information:\nDate: 17 May - 19 May\nCars:\n  GT3\n  Porsche Cup
- \n  GT4\n  TCR\n\nSim Information:\nTrack: Nürburgring - Gesamtstrecke 24
- h\n\nSession Information:\n Race: 24 hours\n Team Event: yes
-LOCATION:Nürburgring
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Road America 500
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240412T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240414T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Road_America_500_1712880000
-SEQUENCE:1
-DESCRIPTION:Travel back in time to an era of classic sports car racing wit
- h the Road America 500 that was revived as part of the IMSA GT Championshi
- p in 1979. Racers will get to experience the excitement racing the Nissan 
- GTP ZX-T or the Audi 90 Quattro GTO.\n\n\nEvent Information:\nDate: 12 Apr
- il - 14 April\nTime slots:\n  Friday 22:00 GMT\n  Saturday 07:00 GMT\n  Sa
- turday 12:00 GMT\n  Saturday 16:00 GMT\n  Sunday 00:00 GMT\nCars:\n  Audi 
- 90 GTO\n  Nissan GTP ZX-T\n\nSim Information:\nTrack: Road America - Full 
- Course\nSim Start Time: Friday 19 April 2024\, 10:15\n\nSession Informatio
- n:\n Warmup: 30 minutes\n Qualifying: 8 minutes / 2 laps\n Race: 500 miles
- \n Weather: Dynamic\n Team Event: yes\n Drive Through Limit: 50 incidents\
- , then every 20 incidents.
-LOCATION:Road America
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daytona 500
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240213T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240219T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
+DTSTART:20240213T000000Z
+DTEND:20240219T235959Z
+DTSTAMP:20240423T151808Z
 UID:Daytona_500_1707782400
 SEQUENCE:1
 DESCRIPTION:Known as “The Great American Race\,” the iRacing Daytona 5
@@ -318,75 +78,10 @@ DESCRIPTION:Known as “The Great American Race\,” the iRacing Daytona 5
 LOCATION:Daytona International Speedway
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili Bowl
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20241214T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20241214T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Chili_Bowl_1734134400
-SEQUENCE:0
-DESCRIPTION:The Chili Bowl is held every January at the Tulsa Expo Center 
- in Tulsa\, Oklahoma. The biggest midget race of the year\, it attracts hun
- dreds of drivers from all types of racing attempting to work their way thr
- ough a week of preliminary rounds and an alphabet soup of main events to g
- et to the 55-lap A main.\n\nEvent Information:\nDate: 14 December - 14 Dec
- ember\nCars:\n  Dirt Midget\n\nSim Information:\nTrack: Chili Bowl\n\nSess
- ion Information:\n Team Event: no
-LOCATION:Chili Bowl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coke 600
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240521T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240527T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Coke_600_1716249600
-SEQUENCE:0
-DESCRIPTION:The final marquee motorsport event of Memorial Day weekend and
-  a longtime Charlotte Motor Speedway tradition\, the iRacing Coke 600 serv
- es as part of the NASCAR iRacing Series schedule. It's the second of four 
- full-length events in the championship\, which mirrors the real-world NASC
- AR Cup Series campaign with 36 events throughout the year.\n\nEvent Inform
- ation:\nDate: 21 May - 27 May\nCars:\n  NASCAR Cup\n    NASCAR Cup Series 
- Next Gen Chevrolet Camaro ZL1\n    NASCAR Cup Series Next Gen Ford Mustang
- \n    NASCAR Cup Series Next Gen Toyota Camry\n\nSim Information:\nTrack: 
- Charlotte Motor Speedway - Oval 2018\n\nSession Information:\n Race: 400 l
- aps\n Team Event: no
-LOCATION:Charlotte Motor Speedway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Watkins Glen 6 Hour
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240614T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240616T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Watkins_Glen_6_Hour_1718323200
-SEQUENCE:0
-DESCRIPTION:The Watkins Glen 6 Hour is a 6 hour endurance race held annual
- ly at Watkins Glen International in Watkins Glen\, New York. It is the fif
- th round of the IMSA WeatherTech SportsCar Championship.\n\nEvent Informat
- ion:\nDate: 14 June - 16 June\nCars:\n  GTP\n  LMP2\n  GT3\n\nSim Informat
- ion:\nTrack: Watkins Glen International - Boot\n\nSession Information:\n R
- ace: 6 hours\n Team Event: yes
-LOCATION:Watkins Glen International
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Martinsville MX-500
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240730T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240804T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
-UID:Martinsville_MX-500_1722297600
-SEQUENCE:0
-DESCRIPTION:The Martinsville MX-500 is a new Special Event kicking off in 
- 2024 where competitors will take to the small confines of Martinsville Spe
- edway in the Global Mazda MX-5 Cup car for a 500 mile race.\n\nEvent Infor
- mation:\nDate: 30 July - 04 August\nCars:\n  Global Mazda MX-5\n\nSim Info
- rmation:\nTrack: Martinsville Speedway\n\nSession Information:\n Race: 951
-  laps\n Team Event: no
-LOCATION:Martinsville Speedway
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bathurst 12
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20240223T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20240225T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
+DTSTART:20240223T000000Z
+DTEND:20240225T235959Z
+DTSTAMP:20240423T151808Z
 UID:Bathurst_12_1708646400
 SEQUENCE:1
 DESCRIPTION:The Bathurst 12 Hour is a 12 hour endurance race staged on the
@@ -405,10 +100,211 @@ DESCRIPTION:The Bathurst 12 Hour is a 12 hour endurance race staged on the
 LOCATION:Mount Panorama Circuit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coke 600
+DTSTART:20240521T000000Z
+DTEND:20240527T235959Z
+DTSTAMP:20240423T151808Z
+UID:Coke_600_1716249600
+SEQUENCE:0
+DESCRIPTION:The final marquee motorsport event of Memorial Day weekend and
+  a longtime Charlotte Motor Speedway tradition\, the iRacing Coke 600 serv
+ es as part of the NASCAR iRacing Series schedule. It's the second of four 
+ full-length events in the championship\, which mirrors the real-world NASC
+ AR Cup Series campaign with 36 events throughout the year.\n\nEvent Inform
+ ation:\nDate: 21 May - 27 May\nCars:\n  NASCAR Cup\n    NASCAR Cup Series 
+ Next Gen Chevrolet Camaro ZL1\n    NASCAR Cup Series Next Gen Ford Mustang
+ \n    NASCAR Cup Series Next Gen Toyota Camry\n\nSim Information:\nTrack: 
+ Charlotte Motor Speedway - Oval 2018\n\nSession Information:\n Race: 400 l
+ aps\n Team Event: no
+LOCATION:Charlotte Motor Speedway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watkins Glen 6 Hour
+DTSTART:20240614T000000Z
+DTEND:20240616T235959Z
+DTSTAMP:20240423T151808Z
+UID:Watkins_Glen_6_Hour_1718323200
+SEQUENCE:0
+DESCRIPTION:The Watkins Glen 6 Hour is a 6 hour endurance race held annual
+ ly at Watkins Glen International in Watkins Glen\, New York. It is the fif
+ th round of the IMSA WeatherTech SportsCar Championship.\n\nEvent Informat
+ ion:\nDate: 14 June - 16 June\nCars:\n  GTP\n  LMP2\n  GT3\n\nSim Informat
+ ion:\nTrack: Watkins Glen International - Boot\n\nSession Information:\n R
+ ace: 6 hours\n Team Event: yes
+LOCATION:Watkins Glen International
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brickyard 400
+DTSTART:20240716T000000Z
+DTEND:20240722T235959Z
+DTSTAMP:20240423T151808Z
+UID:Brickyard_400_1721088000
+SEQUENCE:0
+DESCRIPTION:Known as “The Great American Race\,” the iRacing Daytona 5
+ 00 serves as part of the NASCAR iRacing Series schedule. It's one of four 
+ full-length events in the championship\, which mirrors the real-world NASC
+ AR Cup Series campaign with 36 events throughout the year.\n\nEvent Inform
+ ation:\nDate: 16 July - 22 July\nCars:\n  NASCAR Cup\n    NASCAR Cup Serie
+ s Next Gen Chevrolet Camaro ZL1\n    NASCAR Cup Series Next Gen Ford Musta
+ ng\n    NASCAR Cup Series Next Gen Toyota Camry\n\nSim Information:\nTrack
+ : Indianapolis Motor Speedway\n\nSession Information:\n Race: 160 laps\n T
+ eam Event: no
+LOCATION:Indianapolis Motor Speedway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spa 24
+DTSTART:20240719T000000Z
+DTEND:20240721T235959Z
+DTSTAMP:20240423T151808Z
+UID:Spa_24_1721347200
+SEQUENCE:0
+DESCRIPTION:The 24 Hours of Spa is an endurance race held in Belgium at Ci
+ rcuit de Spa-Francorchamps since 1923. It is part of the Intercontinental 
+ GT Challenge Series in the real world.\n\nEvent Information:\nDate: 19 Jul
+ y - 21 July\nCars:\n  GT3\n\nSim Information:\nTrack: Circuit de Spa-Franc
+ orchamps\n\nSession Information:\n Race: 24 hours\n Team Event: yes
+LOCATION:Circuit de Spa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martinsville MX-500
+DTSTART:20240730T000000Z
+DTEND:20240804T235959Z
+DTSTAMP:20240423T151808Z
+UID:Martinsville_MX-500_1722297600
+SEQUENCE:0
+DESCRIPTION:The Martinsville MX-500 is a new Special Event kicking off in 
+ 2024 where competitors will take to the small confines of Martinsville Spe
+ edway in the Global Mazda MX-5 Cup car for a 500 mile race.\n\nEvent Infor
+ mation:\nDate: 30 July - 04 August\nCars:\n  Global Mazda MX-5\n\nSim Info
+ rmation:\nTrack: Martinsville Speedway\n\nSession Information:\n Race: 951
+  laps\n Team Event: no
+LOCATION:Martinsville Speedway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crandon Championship
+DTSTART:20240824T000000Z
+DTEND:20240824T235959Z
+DTSTAMP:20240423T151808Z
+UID:Crandon_Championship_1724457600
+SEQUENCE:0
+DESCRIPTION:The Crandon Pro 4 Championship is held annually on Labor Day w
+ eekend at Crandon International Raceway. Independently sanctioned and with
+  no points on the line\, it attracts the best off-road racers from various
+  series across the United States.\n\nEvent Information:\nDate: 24 August -
+  24 August\nCars:\n  Pro 4 Off-Road Truck\n\nSim Information:\nTrack: Cran
+ don International Raceway\n\nSession Information:\n Team Event: no
+LOCATION:Crandon International Raceway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indy 6 Hour
+DTSTART:20240913T000000Z
+DTEND:20240915T235959Z
+DTSTAMP:20240423T151808Z
+UID:Indy_6_Hour_1726185600
+SEQUENCE:0
+DESCRIPTION:The Indy 6 Hour  is a new 6 hour endurance race held at Indian
+ apolis Motor Speedway in Indiana. It is part of the Michelin Endurance Cup
+  in the IMSA WeatherTech SportsCar Championship.\n\nEvent Information:\nDa
+ te: 13 September - 15 September\nCars:\n  GTP\n  LMP2\n  GT3\n\nSim Inform
+ ation:\nTrack: Indianapolis Motor Speedway - Road Course\n\nSession Inform
+ ation:\n Race: 6 hours\n Team Event: yes
+LOCATION:Indianapolis Motor Speedway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol 500
+DTSTART:20240917T000000Z
+DTEND:20240923T235959Z
+DTSTAMP:20240423T151808Z
+UID:Bristol_500_1726531200
+SEQUENCE:0
+DESCRIPTION:The iRacing Bristol 500 challenges NASCAR iRacing Series drive
+ rs to a full-length race at “The Last Great Colosseum.” Bristol Motor 
+ Speedway's night race has long been a staple of the real-world NASCAR Cup 
+ Series schedule.\n\nEvent Information:\nDate: 17 September - 23 September\
+ nCars:\n  NASCAR Cup\n    NASCAR Cup Series Next Gen Chevrolet Camaro ZL1\
+ n    NASCAR Cup Series Next Gen Ford Mustang\n    NASCAR Cup Series Next G
+ en Toyota Camry\n\nSim Information:\nTrack: Bristol Motor Speedway\n\nSess
+ ion Information:\n Race: 500 laps\n Team Event: no
+LOCATION:Bristol Motor Speedway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knoxville Nationals
+DTSTART:20240927T000000Z
+DTEND:20240929T235959Z
+DTSTAMP:20240423T151808Z
+UID:Knoxville_Nationals_1727395200
+SEQUENCE:0
+DESCRIPTION:The Knoxville Nationals is one of the biggest and most prestig
+ ious Sprint Car events of the year. The World of Outlaws Sprint Car Series
+  event is held annually at Knoxville Raceway in Knoxville\, Iowa.\n\nEvent
+  Information:\nDate: 27 September - 29 September\nCars:\n  410 Winged Spri
+ nt\n\nSim Information:\nTrack: Knoxville Raceway\n\nSession Information:\n
+  Team Event: no
+LOCATION:Knoxville Raceway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bathurst 1000
+DTSTART:20241004T000000Z
+DTEND:20241006T235959Z
+DTSTAMP:20240423T151808Z
+UID:Bathurst_1000_1728000000
+SEQUENCE:0
+DESCRIPTION:The Bathurst 1000 is staged on the Mount Panorama Circuit in B
+ athurst\, New South Wales\, Australia. Regarded as the pinnacle of motorsp
+ ort in Australia\, this is the biggest event on the calendar for the Super
+ cars Series.\n\nEvent Information:\nDate: 04 October - 06 October\nCars:\n
+   Supercars\n\nSim Information:\nTrack: Mount Panorama Circuit\n\nSession 
+ Information:\n Race: 161 laps\n Team Event: yes
+LOCATION:Mount Panorama Circuit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petit Le Mans
+DTSTART:20241018T000000Z
+DTEND:20241019T235959Z
+DTSTAMP:20240423T151808Z
+UID:Petit_Le_Mans_1729209600
+SEQUENCE:0
+DESCRIPTION:The Petit Le Mans is a 10 hour endurance race held annually at
+  Michelin Raceway Road Atlanta in Braselton\, Georgia. It is the final rou
+ nd of the IMSA WeatherTech SportsCar Championship.\n\nEvent Information:\n
+ Date: 18 October - 19 October\nCars:\n  GTP\n  LMP2\n  GT3\n\nSim Informat
+ ion:\nTrack: Road Atlanta - Full Course\n\nSession Information:\n Race: 10
+  hours\n Team Event: yes
+LOCATION:Road Atlanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRSCC iRacing FF1600 Festival
+DTSTART:20241103T000000Z
+DTEND:20241103T235959Z
+DTSTAMP:20240423T151808Z
+UID:BRSCC_iRacing_FF1600_Festival_1730592000
+SEQUENCE:0
+DESCRIPTION:The British Racing & Sports Car Club iRacing FF1600 Festival i
+ s an event that will be emulating the Formula Ford Festival run in real li
+ fe utilizing the same heat racing format. The event will take place at Bra
+ nds Hatch on the Indy layout.\n\nEvent Information:\nDate: 03 November - 0
+ 3 November\nCars:\n  Ray FF1600\n\nSim Information:\nTrack: Brands Hatch -
+  Indy\n\nSession Information:\n Team Event: no
+LOCATION:Brands Hatch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fuji 8 Hour
+DTSTART:20241115T000000Z
+DTEND:20241117T235959Z
+DTSTAMP:20240423T151808Z
+UID:Fuji_8_Hour_1731628800
+SEQUENCE:0
+DESCRIPTION:The Fuji 8 Hours is a sports car endurance race held in Japan 
+ at Fuji International Speedway. \n\nEvent Information:\nDate: 15 November 
+ - 17 November\nCars:\n  GT3\n\nSim Information:\nTrack: Fuji International
+  Speedway\n\nSession Information:\n Race: 8 hours\n Team Event: yes
+LOCATION:Fuji International Speedway
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SCAA Runoffs
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20241123T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20241123T235959Z
-DTSTAMP;VALUE=DATE-TIME:20240402T110620Z
+DTSTART:20241123T000000Z
+DTEND:20241123T235959Z
+DTSTAMP:20240423T151808Z
 UID:SCAA_Runoffs_1732320000
 SEQUENCE:0
 DESCRIPTION:The SCCA Runoffs is a week long competition at Virginia Intern
@@ -416,5 +312,117 @@ DESCRIPTION:The SCCA Runoffs is a week long competition at Virginia Intern
  ber - 23 November\nCars:\n  6 Class TBD\n\nSim Information:\nTrack: Virgin
  ia International Raceway\n\nSession Information:\n Team Event: no
 LOCATION:Virginia International Raceway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Derby
+DTSTART:20241126T000000Z
+DTEND:20241129T235959Z
+DTSTAMP:20240423T151808Z
+UID:Winter_Derby_1732579200
+SEQUENCE:0
+DESCRIPTION:The Winter Derby is held at Five Flags Speedway in Pensacola\,
+  Florida. Considered to be the most prestigious Super Late Model race\, th
+ e annual event draws the nation's best short track racers for a 300 lap sh
+ owdown on the half mile.\n\nEvent Information:\nDate: 26 November - 29 Nov
+ ember\nCars:\n  Super Late Model\n\nSim Information:\nTrack: Five Flags Sp
+ eedway\n\nSession Information:\n Race: 300 laps\n Team Event: no
+LOCATION:Five Flags Speedway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chili Bowl
+DTSTART:20241214T000000Z
+DTEND:20241214T235959Z
+DTSTAMP:20240423T151808Z
+UID:Chili_Bowl_1734134400
+SEQUENCE:0
+DESCRIPTION:The Chili Bowl is held every January at the Tulsa Expo Center 
+ in Tulsa\, Oklahoma. The biggest midget race of the year\, it attracts hun
+ dreds of drivers from all types of racing attempting to work their way thr
+ ough a week of preliminary rounds and an alphabet soup of main events to g
+ et to the 55-lap A main.\n\nEvent Information:\nDate: 14 December - 14 Dec
+ ember\nCars:\n  Dirt Midget\n\nSim Information:\nTrack: Chili Bowl\n\nSess
+ ion Information:\n Team Event: no
+LOCATION:Chili Bowl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indy 500
+DTSTART:20240527T000000Z
+DTEND:20240602T235959Z
+DTSTAMP:20240423T151808Z
+UID:Indy_500_1716768000
+SEQUENCE:0
+DESCRIPTION:Known as “The Greatest Spectacle in Racing\,” the INDY 500
+  is one of the most prestigious race events in the world\, held since 1911
+  at Indianapolis Motor Speedway. It is part of the INDYCAR Series in the U
+ nited States. \n\nEvent Information:\nDate: 27 May - 02 June\nCars:\n  Dal
+ lara IR18\n\nSim Information:\nTrack: Indianapolis Motor Speedway\n\nSessi
+ on Information:\n Race: 200 laps\n Team Event: no
+LOCATION:Indianapolis Motor Speedway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Road America 500
+DTSTART:20240412T000000Z
+DTEND:20240414T235959Z
+DTSTAMP:20240423T151808Z
+UID:Road_America_500_1712880000
+SEQUENCE:1
+DESCRIPTION:Travel back in time to an era of classic sports car racing wit
+ h the Road America 500 that was revived as part of the IMSA GT Championshi
+ p in 1979. Racers will get to experience the excitement racing the Nissan 
+ GTP ZX-T or the Audi 90 Quattro GTO.\n\n\nEvent Information:\nDate: 12 Apr
+ il - 14 April\nTime slots:\n  Friday 22:00 GMT\n  Saturday 07:00 GMT\n  Sa
+ turday 12:00 GMT\n  Saturday 16:00 GMT\n  Sunday 00:00 GMT\nCars:\n  Audi 
+ 90 GTO\n  Nissan GTP ZX-T\n\nSim Information:\nTrack: Road America - Full 
+ Course\nSim Start Time: Friday 19 April 2024\, 10:15\n\nSession Informatio
+ n:\n Warmup: 30 minutes\n Qualifying: 8 minutes / 2 laps\n Race: 500 miles
+ \n Weather: Dynamic\n Team Event: yes\n Drive Through Limit: 50 incidents\
+ , then every 20 incidents.
+LOCATION:Road America
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sebring 12
+DTSTART:20240322T000000Z
+DTEND:20240324T235959Z
+DTSTAMP:20240423T151808Z
+UID:Sebring_12_1711065600
+SEQUENCE:1
+DESCRIPTION:The Sebring 12HR is a 12-hour endurance race held at Sebring I
+ nternational Raceway in Sebring\, Florida. It is the second round of the I
+ MSA WeatherTech SportsCar Championship.\n\n\nEvent Information:\nDate: 22 
+ March - 24 March\nTime slots:\n  Friday 22:00 GMT\n  Saturday 07:00 GMT\n 
+  Saturday 12:00 GMT\n  Saturday 16:00 GMT\nCars:\n  GTP\n    Acura ARX-06 
+ GTP\n    BMW M Hybrid V8\n    Cadillac V-Series.R GTP\n    Porsche 963 GTP
+ \n  LMP2\n    Dallara P217\n  GT3\n    Audi R8 LMS EVO II GT3\n    BMW M4 
+ GT3\n    Ferrari 296 GT3\n    Lamborghini Huracán GT3 EVO\n    Mercedes-A
+ MG GT3 2020\n    Porsche 911 GT3 R (992)\n\nSim Information:\nTrack: Sebri
+ ng International Raceway - International\nSim Start Time: Saturday 16 Marc
+ h 2024\, 09:30\n\nSession Information:\n Warmup: 30 minutes\n Qualifying: 
+ 8 minutes / 2 laps\n Race: 12 hours\n Weather: Dynamic\n Team Event: yes\n
+  Drive Through Limit: 50 incidents\, then every 20 incidents.
+LOCATION:Sebring International Raceway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürburgring 24h
+DTSTART:20240517T000000Z
+DTEND:20240519T235959Z
+DTSTAMP:20240423T151808Z
+UID:Nürburgring_24h_1715904000
+SEQUENCE:1
+DESCRIPTION:The 24 Hours Nürburgring (ADAC 24h Rennen Nürburgring) is a 
+ 24-hour endurance event held on the Nürburgring Combined - Gesamtstrecke 
+ 24h in Nürburg\, Rhineland-Palatinate\, Germany. It also utilizes part of
+  the GP-Strecke course to form a total lap length of 16.1 miles (25.9 km).
+ \n\n\nEvent Information:\nDate: 17 May - 19 May\nTime slots:\n  Friday 22:
+ 00 GMT\n  Saturday 07:00 GMT\n  Saturday 12:00 GMT\n  Saturday 16:00 GMT\n
+ Cars:\n  GT3\n    Audi R8 LMS EVO II GT3\n    BMW M4 GT3\n    Ferrari 296 
+ GT3\n    Mercedes-AMG GT3\n    Porsche 911 GT3 R (992)\n  GT3 Cup\n    Por
+ sche 911 GT3 Cup (992)\n  GT4\n    Aston Martin Vantage GT4\n    BMW M4 GT
+ 4\n    Porsche 718 Cayman GT4 Clubsport\n  TCR\n    Honda Civic Type R TCR
+ \n    Hyundai Elantra TCR\n  GR86\n    Toyota GR86\n\nSim Information:\nTr
+ ack: Nürburgring - Gesamtstrecke 24h\nSim Start Time: Saturday 01 June 20
+ 24\, 15:13\n\nSession Information:\n Warmup: 20 minutes\n Qualifying: 25 m
+ inutes / 2 laps\n Race: 24 hours\n Weather: Dynamic\n Team Event: yes\n Dr
+ ive Through Limit: 100 incidents\, then every 20 incidents.
+LOCATION:Nürburgring
 END:VEVENT
 END:VCALENDAR

@@ -1,28 +1,40 @@
 - event:
     name: Nürburgring 24h
-    iteration: 0
+    iteration: 1
     location: Nürburgring - Gesamtstrecke 24h
     start_date: 2024-05-17T00:00:00+0000
     end_date: 2024-05-19T23:59:59+0000
-    sim_start_date: 
-    warmup: 
-    qualifying: 
+    sim_start_date: 2024-06-01T15:13:00+0200 
+    warmup: 20 minutes
+    qualifying: 25 minutes / 2 laps
     race_length: 24 hours
     team_event: yes
-    drive_through_limit: 
-    weather: 
+    drive_through_limit: 100,20 
+    weather: Dynamic
     sky: 
     split_times:
-      - 
+      - Friday 22:00 GMT
+      - Saturday 07:00 GMT
+      - Saturday 12:00 GMT
+      - Saturday 16:00 GMT
     cars:
       GT3:
-        -
-      Porsche Cup:
-        -
+        - Audi R8 LMS EVO II GT3
+        - BMW M4 GT3
+        - Ferrari 296 GT3
+        - Mercedes-AMG GT3
+        - Porsche 911 GT3 R (992)
+      GT3 Cup:
+        - Porsche 911 GT3 Cup (992)
       GT4:
-        -
+        - Aston Martin Vantage GT4
+        - BMW M4 GT4
+        - Porsche 718 Cayman GT4 Clubsport
       TCR:
-        -
+        - Honda Civic Type R TCR
+        - Hyundai Elantra TCR
+      GR86:
+        - Toyota GR86
     text_description: >
       The 24 Hours Nürburgring (ADAC 24h Rennen Nürburgring) is a 24-hour
       endurance event held on the Nürburgring Combined - Gesamtstrecke 24h
