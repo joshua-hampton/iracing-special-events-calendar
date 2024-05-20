@@ -1,19 +1,28 @@
 - event:
     name: Indy 500
-    iteration: 0
+    iteration: 1
     location: Indianapolis Motor Speedway
     start_date: 2024-05-27T00:00:00+0000
     end_date: 2024-06-02T23:59:59+0000
-    sim_start_date: 
-    warmup: 
-    qualifying: 
+    sim_start_date: 2024-05-26T12:30:00-0500
+    warmup: 15 minutes 
+    qualifying: Detatched, 4 lap average
     race_length: 200 laps
     team_event: no
     drive_through_limit: 
     weather: 
     sky: 
     split_times:
-      - 
+      Open:
+        - Saturday 01:00 GMT
+        - Saturday 13:00 GMT
+        - Saturday 17:00 GMT
+        - Sunday 13:00 GMT
+      Fixed:
+        - Saturday 05:00 GMT
+        - Saturday 09:00 GMT
+        - Saturday 21:00 GMT
+        - Sunday 17:00 GMT
     cars:
       - Dallara IR18
     text_description: >
