@@ -1,6 +1,6 @@
 - event:
     name: Coke 600
-    iteration: 0
+    iteration: 1
     location: Charlotte Motor Speedway - Oval 2018
     start_date: 2024-05-21T00:00:00+0000
     end_date: 2024-05-27T23:59:59+0000
@@ -13,7 +13,17 @@
     weather: 
     sky: 
     split_times:
-      - 
+      Open:
+        - Thursday 01:00 GMT/Wednesday 21:00 EDT
+        - Thursday 19:00 GMT/Thursday 15:00 EDT
+        - Saturday 01:00 GMT/Friday 21:00 EDT
+        - Sunday 14:00 GMT/Sunday 10:00 EDT
+      Fixed:
+        - Wednesday 21:00 GMT/Wednesday 17:00 EDT
+        - Friday 01:00 GMT/Thursday 21:00 EDT
+        - Saturday 10:00 GMT/Saturday 06:00 EDT
+        - Saturday 16:00 GMT/Saturday 12:00 EDT
+        - Monday 01:00 GMT/Sunday 21:00 EDT
     cars:
       NASCAR Cup:
         - NASCAR Cup Series Next Gen Chevrolet Camaro ZL1
