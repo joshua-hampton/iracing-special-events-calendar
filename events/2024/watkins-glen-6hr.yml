@@ -1,26 +1,40 @@
 - event:
     name: Watkins Glen 6 Hour
-    iteration: 0
+    iteration: 1
     location: Watkins Glen International - Boot
     start_date: 2024-06-14T00:00:00+0000
     end_date: 2024-06-16T23:59:59+0000
-    sim_start_date: 
-    warmup: 
-    qualifying: 
+    sim_start_date: 2024-06-23T10:00:00-0400
+    warmup: 30 minutes
+    qualifying: 8 minutes / 2 laps
     race_length: 6 hours
     team_event: yes
-    drive_through_limit: 
-    weather: 
+    drive_through_limit: 35,20 
+    weather: Dynamic 
     sky: 
     split_times:
-      - 
+      - Friday 22:00 GMT
+      - Saturday 07:00 GMT
+      - Saturday 12:00 GMT
+      - Saturday 16:00 GMT
+      - Sunday 00:00 GMT
     cars:
       GTP:
-        -
+        - Acura ARX-06 GTP
+        - BMW M Hybrid V8
+        - Cadillac V-Series.R GTP
+        - Porsche 963 GTP
       LMP2:
-        -
+        - Dallara P217
       GT3:
-        -
+        - Audi R8 LMS EVO II GT3
+        - BMW M4 GT3
+        - Chevrolet Corvette Z06 GT3.R
+        - Ford Mustang GT3
+        - Ferrari 296 GT3
+        - Lamborghini Huracán GT3 EVO
+        - Mercedes-AMG GT3 2020
+        - Porsche 911 GT3 R (992)
     text_description: >
       The Watkins Glen 6 Hour is a 6 hour endurance race held annually at
       Watkins Glen International in Watkins Glen, New York. It is the fifth
